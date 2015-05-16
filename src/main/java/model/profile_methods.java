@@ -6,9 +6,7 @@
 package model;
 
 import com.mysql.jdbc.PreparedStatement;
-import com.sun.xml.internal.ws.api.message.Attachment;
 
-import javax.xml.bind.attachment.AttachmentMarshaller;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
